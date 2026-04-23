@@ -42,28 +42,22 @@ Users can upload their resumes, explore job opportunities, and receive intellige
 ## Screenshots
 
 ### Homepage
-
-![Homepage](screenshots/HOMEPAGE.png)
+![Homepage](./screenshots/HOMEPAGE.png)
 
 ### Login Page
-
-![Login](screenshots/LOGINPAGE.png)
+![Login](./screenshots/LOGINPAGE.png)
 
 ### Resume Upload
-
-![Resume Upload](screenshots/RESUME-UP.png)
+![Resume](./screenshots/RESUME-UP.png)
 
 ### Match Results
-
-![Match](screenshots/MATCH-RES.png)
+![Match](./screenshots/MATCH-RES.png)
 
 ### Online Jobs
-
-![Jobs](screenshots/ONLINE-JOBS.png)
+![Jobs](./screenshots/ONLINE-JOBS.png)
 
 ### Dashboard
-
-![Dashboard](screenshots/DASHBOARD.png)
+![Dashboard](./screenshots/DASHBOARD.png)
 
 ---
 
